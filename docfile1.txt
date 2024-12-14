@@ -1,0 +1,172 @@
+WP Customization
+
+
+Basic Concept on Themes and Plugins
+--------------------
+Themes is related to website. like LLMS, Blog, Profile, Affiliate.
+
+anvato or themeforest found related theme resourses...
+
+Plugin is small component of website....
+it's helper of theme.... like visitor count, pop up, slider, herader, footer,
+bkash
+Gutenberg or Classic Editor
+-------------------------------
+Plugis -> Add New Plugin
+Search  ... Classic Editor
+
+Increase Editor Power by Installing Advanced Tool
+-------------------------------
+Plugins ---- Advanced Editor Tools
+
+
+Make Widgets Developer Friendly
+------------------------------------
+
+classic widgets
+
+Install SSL Certificate In Website
+---------------------------------
+Secure Socate Layer
+
+really simple ssl Pro version at email
+
+
+Integrate Cloudflare with WordPress Website
+-----------------------------
+cloudflare.com
+
+
+Secure Admin Login URL From hackers
+---------------------------------
+WPS Hide Login
+
+localhost/wpcus/myloginpoint/
+
+
+WP Anti-Spam Comment Prevention
+--------------------------
+Akismet Anti-Spam
+API Key
+ba208b74bbdf
+
+Settings -> Disscussion ->
+Allow people to submit comments on new posts
+Comment author must fill out name and email
+Users must be registered and logged in to comment
+Anyone posts a comment 
+A comment is held for moderation 
+
+
+Important WordPress CMS Settings Modification
+
+support@msbacademy.com
+
+MailChimp Account Creation
+---------------------
+mailchimp.com
+
+
+Create Professional Coming Soon Landing Page
+---------------------
+Plugin - CMP
+ctrl+shift+R = Hard Refresh
+Ctrl+R = Refresh
+
+Collect Emails With Others Information Vis Coming Soon Landing Page
+--------------------------------------------------
+with MailChimp
+
+
+Google Analytics Intigration With With WordPress Website
+-------------------------------------------------------
+analytics.google.com
+
+
+Login Page Customize
+-------------------
+custom login page Customizer
+--Hardeep
+
+
+How To Install A Theme
+-----------------------
+OceanWP
+
+How To Install Child Theme & Why We Have To Use Child Theme (Way-1)
+---------------------------------------------
+https://github.com/beeruth368/oceanwp-child-theme
+
+How To Install Child Theme & Why We Have To Use Child Theme (Way-2)
+-------------------------------
+From OceanWP Theme Panel
+--> OceanWP Child Theme
+
+Install Necessary Plugins
+----------------------
+Useful Plugins --> Elementor Website Builder - More than Just a Page Builder
+
+--> Recommended Ocean Plugins
+-- Ocean Modal Window
+-- Ocean Custom Sidebar
+-- Ocean Posts Silder
+-- Ocean Stick Anything
+-- Ocean Social Sharing
+-- Ocean Product Sharing
+
+
+How To Create Pages
+--------------------
+Home
+About
+Blog
+Contact
+
+
+How To Create & Assign Menu
+---------------------------
+Appearance --> Menu
+Menu Name (Main Menu) --> Create Menu
+Most Recent --> Add to Menu
+Menu Settings --> Main
+
+How To Mention Home Page and Post Page
+-------------------------------
+Settings -> Reading -> Your Homepage Displays
+A Static Page -- Homepage -- Home
+Posts Page -- Blog
+For each post in a feed, include -- Excerpt
+Search engine visibility --Discourage search engines from indexing.....
+
+
+How to Create Navigation Menu Like A Boss
+-----------------------------------------
+Travel - India - Pakistan - Thailand - USA 
+
+How To Mention Parent & Child Page
+--------------------------------
+Parent(Blog)-Child(Travel)-Grand Child(South Asia)-
+Then Child (India,Pakistan)
+
+It's necessary for SEO other wise no need...
+
+
+User Profile Creation With Registration
+----------------------------------
+Plugins -- Profile Builder Pro
+........
+..............
+Plugins -- User Menus  by code
+
+WP Settings -> Allow new registration 
+--> User accounts may allow registered
+
+
+Manual Site Design (Part 1)
+--------------------
+
+Plugins
+https://wordpress.org/plugins/essential-addons-for-elementor-lite/
+https://wordpress.org/plugins/header-footer-elementor/
+
+Elementor Addons & Templates   by Sizzify
