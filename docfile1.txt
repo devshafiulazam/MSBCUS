@@ -170,3 +170,68 @@ https://wordpress.org/plugins/essential-addons-for-elementor-lite/
 https://wordpress.org/plugins/header-footer-elementor/
 
 Elementor Addons & Templates   by Sizzify
+
+
+Plugins --
+
+Press Elements - Widgets for Elementor
+
+StylePress For Elementor
+
+Home Page
+Content Layout -- 100% Full Width
+Sidebar  -- Default
+Margin  -- Disable
+
+Logo & Fav Icon setting 
+from customization... section.
+
+Title --> Display Page Title > Disable
+Title --> Display Heading > Disable
+
+
+------------
+
+Complete Blog With Settings
+---------------------------
+Title Must be full so need to edit and post full.
+So title will be english for search engine
+
+Settings:
+Post Name:....
+Post title default h1
+
+h1 might use only one...
+
+Details use heading 1,2.....6
+
+image add media... or url
+
+for link use link option....
+
+set featured image
+
+Add New Category....(reselect uncategories)
+
+use date change option...
+
+we can use unlimited edited...
+
+Add Tags... like keyword wirte with (,)
+
+customize setting ...> Blog > Blog Page > heading tag h1,
+Blog sytle > Thumbmail
+hobar color setting....
+blog pagination > standard >
+elements postioning
+
+Settings... for site security....
+
+
+
+Post Views Count
+----------------
+
+Plugins
+Post Views Counter
+bydFactory
