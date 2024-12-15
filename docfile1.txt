@@ -235,3 +235,54 @@ Post Views Count
 Plugins
 Post Views Counter
 bydFactory
+
+Post Views
+Quick Edit Posts.... Manually counter setup.
+
+
+WP Comments Section Upgrade (Facebook Comments)
+-------------------------------------------
+
+1704099629717799
+
+
+Content Copy Protection
+-----------------------
+Plugins:
+WP Content Copy Protection 
+By wp-buy
+
+
+Open Code For User
+------------------
+Plugins:
+Urvanov Syntax Highlighter 
+OR
+Crayon Syntax Highlighter
+
+Open Blog Website Registration
+------------------------------
+Sign up
+
+[wppb-register role="author"]
+
+
+View own posts and media library items only (Security Part - 4)
+-------------------------------------
+Plugins
+View own posts media only
+
+
+Require Featured Image In Posts
+-----------------------------
+Plugins:
+Require Feature Image
+By Press Up
+
+
+Post Accepting and Author Changing
+-------------------------------
+GT Post Approval
+By Francesco Terenzani
+
+Author Change by Quick Edit
